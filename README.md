@@ -18,7 +18,7 @@
 ## 🌐 官方平台
 
 - 🔗 官网：[Mazesec](https://maze-sec.com/)
-- 💬 QQ 群：660930334
+- 💬 QQ 群：321948805
 - 🌐 Discord：[加入我们](https://discord.com/invite/ggp34bQxba)
 
 ---
